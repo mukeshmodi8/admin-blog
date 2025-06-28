@@ -1,0 +1,39 @@
+.hover-effect {
+  transition: 0.3s ease-in-out;
+  font-weight: 500;
+}
+.hover-effect:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffc107 !important;
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+  margin-bottom: 5px;
+}
+
+.navbar-brand img {
+  border: 2px solid #ffc107;
+  padding: 2px;
+}
+.custom-toggler {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.dots-icon {
+  font-size: 24px;
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.hover-effect {
+  transition: 0.3s ease-in-out;
+  font-weight: 500;
+}
+.hover-effect:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffc107 !important;
+  text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.dashboard-container {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 40px;
+  background: linear-gradient(135deg, #e3f2fd, #ffffff);
+  border: 1px solid #dee2e6;
+}
